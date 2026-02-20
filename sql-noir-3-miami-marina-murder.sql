@@ -1,4 +1,7 @@
 -- Record your SQL detective process here!  Write down: 
   -- 1. The SQL queries you ran
+          -- I did happen to use some JOIN clauses. Mainly putting together date/time and person_id.
   -- 2. Any notes or insights as SQL comments
+        -- I'm not quite sure what this question is asking. But I didn't make any comments in the queries. I just used the note area.
   -- 3. Your final conclusion: who did it?
+        -- There were 2 others involved, including a night club owner who was running a black mail ring. But the actual killer was Thomas Brown a.k.a. 'The Fox'.

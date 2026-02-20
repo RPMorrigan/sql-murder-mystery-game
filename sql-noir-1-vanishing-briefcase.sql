@@ -1,4 +1,7 @@
 -- Record your SQL detective process here!  Write down: 
   -- 1. The SQL queries you ran
+        -- Pretty basic. I didn't really need any JOIN clauses. Just some WHERE and LIKE clauses to complete the descriptions of the person with a telling scar on their face.
   -- 2. Any notes or insights as SQL comments
+        -- I don't really think I need to keep those handy as we have a notes section.
   -- 3. Your final conclusion: who did it?
+        -- It was Vincent Malone

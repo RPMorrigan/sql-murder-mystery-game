@@ -1,4 +1,7 @@
 -- Record your SQL detective process here!  Write down: 
   -- 1. The SQL queries you ran
+        -- It was just the same as the vanishing briefcase.
   -- 2. Any notes or insights as SQL comments
+        -- No, just in my notes section.
   -- 3. Your final conclusion: who did it?
+        -- Rico Delgado. I got him because of his watch and bandana.
